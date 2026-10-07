@@ -1,5 +1,3 @@
-# finance-data-learning
-My learning journey in Python, Data Analytics and Finance
 # Finance & Data Learning
 
 I am a Banking and Digital Finance student developing skills in:
